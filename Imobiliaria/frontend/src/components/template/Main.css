@@ -1,0 +1,10 @@
+main > div {
+    background-color: none;
+}
+
+.imga {
+    background-image: url('../../assets/img/background.png.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

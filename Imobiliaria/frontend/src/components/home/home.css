@@ -1,0 +1,29 @@
+.container1 {
+    text-align: center;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.texto {
+    text-align: center;
+}
+
+.texto1 {
+    margin-left: 15px;
+    text-align: left;
+}
+.saiba {
+    background-color: #a78a70;
+    display: inline-flex;
+    align-items: center;
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
